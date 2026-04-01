@@ -12,5 +12,5 @@ seguridad.
 ### GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BequerGuzman&theme=github-dark-blue)](https://git.io/streak-stats)
 
-![Most Used Languages](https://githubscrcontent.com/BequerGuzman/github-stats-transparent/output/generated/languages.svg)
+
 
