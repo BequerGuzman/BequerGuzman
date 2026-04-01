@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # Bequer Guzman Tamara
 Estudiante de Ingeniería de Sistemas (VIII ciclo) y Técnico en Computación e Informática,
 con experiencia en soporte técnico, mantenimiento de equipos y gestión de sistemas en
