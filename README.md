@@ -35,7 +35,7 @@
 ---
 
 ## 📫 Contacto
-- Email: beguzamant@gmail.com
+- Email: beguzmant@gmail.com
 - Ubicación: Perú 🇵🇪
 
 ---
