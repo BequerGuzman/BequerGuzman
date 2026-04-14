@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="TU_LINK_DEL_BANNER_AQUI" alt="Banner Bequer Guzmán Tamara"/>
+  <img src="[TU_LINK_DEL_BANNER_AQUI](https://github.com/BequerGuzman/BequerGuzman/raw/main/bannerOficial.png)" alt="Banner Bequer Guzmán Tamara"/>
 </p>
 
 <!-- TITULO -->
