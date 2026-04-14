@@ -3,7 +3,7 @@
   <img src="https://github.com/BequerGuzman/BequerGuzman/raw/main/bannerOficial.png"/>
 
 <!-- TITULO -->
-<h1 align="center">👋 Hola, soy Bequer Guzmán Tamara</h1>
+<h1 align="center">👋 Hola, soy Bequer Guzmán Támara</h1>
 
 <!-- ANIMACION -->
 <p align="center">
