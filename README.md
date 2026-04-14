@@ -1,8 +1,6 @@
 <!-- BANNER -->
 <p align="center">
   <img src="https://github.com/BequerGuzman/BequerGuzman/raw/main/banner.png"/>
-</p> alt="Banner Bequer Guzmán Tamara"/>
-</p>
 
 <!-- TITULO -->
 <h1 align="center">👋 Hola, soy Bequer Guzmán Tamara</h1>
